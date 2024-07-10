@@ -29,4 +29,8 @@ items:
     target: "/academics/curriculum/"
     kind: page
     children: []
+  - title: Career services
+    target: "/academics/career-services/"
+    kind: page
+    children: []
 
