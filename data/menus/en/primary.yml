@@ -20,5 +20,9 @@ items:
 - title: Academics
   target: "/academics/"
   kind: page
-  children: []
+  children:
+  - title: Program overview
+    target: "/academics/program-overview/"
+    kind: page
+    children: []
 
