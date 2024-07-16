@@ -9,6 +9,8 @@ en:
   params:
     social:
   permalinks:
+    diplomas: /diplomas/:slug/
+    programs: /programs/:slug/
   taxonomies:
     administrator: administrators
     author: authors

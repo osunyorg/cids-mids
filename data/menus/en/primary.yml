@@ -33,4 +33,16 @@ items:
     target: "/academics/career-services/"
     kind: page
     children: []
+- title: Campus
+  target: "/campus/"
+  kind: page
+  children: []
+- title: Diplomas
+  target: "/diplomas/"
+  kind: page
+  children: []
+- title: Programs
+  target: "/programs/"
+  kind: page
+  children: []
 
