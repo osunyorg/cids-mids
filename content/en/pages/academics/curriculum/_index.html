@@ -124,6 +124,42 @@ contents:
     slug: "coursework"
     position: 0
     rank: 2
+  - kind: block
+    template: pages
+    title: >-
+      
+    ranks:
+      self: false
+      children: 3
+    data:
+      show_main_description: false
+      show_descriptions: false
+      show_images: false
+      options:
+        image: false
+        main_summary: false
+        summary: true
+
+      layout: list
+      pages:
+        - path: "/team/"
+          slug: "team"
+          file: "persons/_index.html"
+          external: false
+        - path: "/organizations/"
+          slug: "organizations"
+          file: "organizations/_index.html"
+          external: false
+        - path: "/legal-terms/"
+          slug: "legal-terms"
+          file: "pages/legal-terms/_index.html"
+          external: false
+        - path: "/privacy-policy/"
+          slug: "privacy-policy"
+          file: "pages/privacy-policy/_index.html"
+          external: false
+
+
 
   - kind: heading
     title: >-
@@ -175,42 +211,6 @@ contents:
         summary: false
 
       programs:
-
-
-  - kind: block
-    template: pages
-    title: >-
-      
-    ranks:
-      self: false
-      children: 3
-    data:
-      show_main_description: false
-      show_descriptions: false
-      show_images: false
-      options:
-        image: false
-        main_summary: false
-        summary: true
-
-      layout: list
-      pages:
-        - path: "/team/"
-          slug: "team"
-          file: "persons/_index.html"
-          external: false
-        - path: "/organizations/"
-          slug: "organizations"
-          file: "organizations/_index.html"
-          external: false
-        - path: "/legal-terms/"
-          slug: "legal-terms"
-          file: "pages/legal-terms/_index.html"
-          external: false
-        - path: "/privacy-policy/"
-          slug: "privacy-policy"
-          file: "pages/privacy-policy/_index.html"
-          external: false
 
 
 
