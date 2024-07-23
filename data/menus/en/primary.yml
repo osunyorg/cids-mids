@@ -77,4 +77,8 @@ items:
     target: "/student-experience/housing/"
     kind: page
     children: []
+  - title: Moving to Geneva
+    target: "/student-experience/moving-to-geneva/"
+    kind: page
+    children: []
 
