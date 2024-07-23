@@ -73,4 +73,8 @@ items:
     target: "/student-experience/life-in-geneva/"
     kind: page
     children: []
+  - title: Housing
+    target: "/student-experience/housing/"
+    kind: page
+    children: []
 
