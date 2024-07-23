@@ -53,4 +53,8 @@ items:
     target: "/student-experience/moving-to-geneva/"
     kind: page
     children: []
+- title: Admissions & Aid
+  target: ''
+  kind: blank
+  children: []
 
