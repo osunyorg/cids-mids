@@ -56,5 +56,9 @@ items:
 - title: Admissions & Aid
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: How to apply?
+    target: "/admissions/how-to-apply/"
+    kind: page
+    children: []
 
