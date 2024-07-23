@@ -61,4 +61,8 @@ items:
     target: "/student-experience/mids-campus/"
     kind: page
     children: []
+  - title: Classroom Experience
+    target: "/student-experience/classroom-experience/"
+    kind: page
+    children: []
 
