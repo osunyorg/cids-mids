@@ -33,6 +33,10 @@ items:
     target: "/academics/career-services/"
     kind: page
     children: []
+  - title: Thematics
+    target: "/academics/thematics/"
+    kind: page
+    children: []
 - title: Campus
   target: "/campus/"
   kind: page
