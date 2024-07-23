@@ -61,4 +61,8 @@ items:
     target: "/admissions/how-to-apply/"
     kind: page
     children: []
+  - title: Tuitions & Costs
+    target: "/admissions/tuition-costs/"
+    kind: page
+    children: []
 
