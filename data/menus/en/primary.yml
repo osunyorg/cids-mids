@@ -29,10 +29,6 @@ items:
   target: "/campus/"
   kind: page
   children: []
-- title: Programs
-  target: "/programs/"
-  kind: page
-  children: []
 - title: Student Experience
   target: "/student-experience/"
   kind: page
