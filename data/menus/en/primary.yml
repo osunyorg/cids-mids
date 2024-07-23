@@ -56,5 +56,9 @@ items:
 - title: Student Experience
   target: "/student-experience/"
   kind: page
-  children: []
+  children:
+  - title: MIDS Campus
+    target: "/student-experience/mids-campus/"
+    kind: page
+    children: []
 
