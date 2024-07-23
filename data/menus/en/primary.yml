@@ -53,4 +53,8 @@ items:
   target: "/programs/"
   kind: page
   children: []
+- title: Student Experience
+  target: "/student-experience/"
+  kind: page
+  children: []
 
