@@ -69,4 +69,8 @@ items:
     target: "/admissions/financial-aid/"
     kind: page
     children: []
+  - title: Incoming Students
+    target: "/admissions/incoming-students/"
+    kind: page
+    children: []
 
