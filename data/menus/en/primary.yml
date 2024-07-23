@@ -1,10 +1,6 @@
 ---
 title: Main menu
 items:
-- title: Organizations
-  target: "/organizations/"
-  kind: page
-  children: []
 - title: Academics
   target: "/academics/"
   kind: page
