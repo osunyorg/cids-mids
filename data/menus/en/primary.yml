@@ -109,4 +109,8 @@ items:
     target: "/community/current-students/"
     kind: page
     children: []
+  - title: Alumni
+    target: "/community/alumni/"
+    kind: page
+    children: []
 
