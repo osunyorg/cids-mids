@@ -92,5 +92,9 @@ items:
 - title: Community
   target: ''
   kind: blank
-  children: []
+  children:
+  - title: The MIDS Community
+    target: "/community/the-mids-community/"
+    kind: page
+    children: []
 
