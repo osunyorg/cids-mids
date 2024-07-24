@@ -101,4 +101,8 @@ items:
     target: "/community/faculty/"
     kind: page
     children: []
+  - title: Team & Governance
+    target: "/community/team-governance/"
+    kind: page
+    children: []
 
