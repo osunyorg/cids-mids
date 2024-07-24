@@ -76,5 +76,9 @@ items:
 - title: About
   target: "/about/"
   kind: page
-  children: []
+  children:
+  - title: The MIDS
+    target: "/about/the-mids/"
+    kind: page
+    children: []
 
