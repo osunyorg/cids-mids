@@ -73,4 +73,8 @@ items:
     target: "/admissions/incoming-students/"
     kind: page
     children: []
+- title: About
+  target: "/about/"
+  kind: page
+  children: []
 
