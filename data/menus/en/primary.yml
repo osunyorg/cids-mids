@@ -113,4 +113,8 @@ items:
     target: "/community/alumni/"
     kind: page
     children: []
+  - title: Partners
+    target: "/community/partners/"
+    kind: page
+    children: []
 
