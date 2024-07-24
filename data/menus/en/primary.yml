@@ -81,4 +81,8 @@ items:
     target: "/about/the-mids/"
     kind: page
     children: []
+  - title: Our values
+    target: "/about/our-values/"
+    kind: page
+    children: []
 
