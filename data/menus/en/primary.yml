@@ -105,4 +105,8 @@ items:
     target: "/community/team-governance/"
     kind: page
     children: []
+  - title: Current Students
+    target: "/community/current-students/"
+    kind: page
+    children: []
 
