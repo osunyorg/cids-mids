@@ -73,22 +73,6 @@ items:
     target: "/admissions/incoming-students/"
     kind: page
     children: []
-- title: About
-  target: "/about/"
-  kind: page
-  children:
-  - title: The MIDS
-    target: "/about/the-mids/"
-    kind: page
-    children: []
-  - title: Our values
-    target: "/about/our-values/"
-    kind: page
-    children: []
-  - title: Contact us
-    target: "/about/contact-us/"
-    kind: page
-    children: []
 - title: Community
   target: ''
   kind: blank
@@ -115,6 +99,22 @@ items:
     children: []
   - title: Partners
     target: "/community/partners/"
+    kind: page
+    children: []
+- title: About
+  target: "/about/"
+  kind: page
+  children:
+  - title: The MIDS
+    target: "/about/the-mids/"
+    kind: page
+    children: []
+  - title: Our values
+    target: "/about/our-values/"
+    kind: page
+    children: []
+  - title: Contact us
+    target: "/about/contact-us/"
     kind: page
     children: []
 
