@@ -89,4 +89,8 @@ items:
     target: "/about/contact-us/"
     kind: page
     children: []
+- title: Community
+  target: ''
+  kind: blank
+  children: []
 
