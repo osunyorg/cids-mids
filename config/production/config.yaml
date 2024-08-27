@@ -4,7 +4,7 @@ baseURL: https://mids.cids.osuny.site
 
 ## LANGUAGE
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 ## CACHE
 deployment:

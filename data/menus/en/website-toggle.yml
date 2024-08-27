@@ -2,7 +2,7 @@
 title: Website toggle
 items:
 - title: MIDS
-  target: "/"
+  target: "/en/"
   kind: page
   children: []
 - title: CIDS

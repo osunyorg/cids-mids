@@ -2,55 +2,55 @@
 title: Main menu
 items:
 - title: Academics
-  target: "/academics/"
+  target: "/en/academics/"
   kind: page
   children:
   - title: Program overview
-    target: "/academics/program-overview/"
+    target: "/en/academics/program-overview/"
     kind: page
     children: []
   - title: Curriculum
-    target: "/academics/curriculum/"
+    target: "/en/academics/curriculum/"
     kind: page
     children: []
   - title: Career services
-    target: "/academics/career-services/"
+    target: "/en/academics/career-services/"
     kind: page
     children: []
   - title: Thematics
-    target: "/academics/thematics/"
+    target: "/en/academics/thematics/"
     kind: page
     children: []
   - title: Career services
-    target: "/academics/career-services-1/"
+    target: "/en/academics/career-services-1/"
     kind: page
     children: []
 - title: Student Experience
-  target: "/student-experience/"
+  target: "/en/student-experience/"
   kind: page
   children:
   - title: MIDS Campus
-    target: "/student-experience/mids-campus/"
+    target: "/en/student-experience/mids-campus/"
     kind: page
     children: []
   - title: Classroom Experience
-    target: "/student-experience/classroom-experience/"
+    target: "/en/student-experience/classroom-experience/"
     kind: page
     children: []
   - title: Student Services
-    target: "/student-experience/student-services/"
+    target: "/en/student-experience/student-services/"
     kind: page
     children: []
   - title: Life in Geneva
-    target: "/student-experience/life-in-geneva/"
+    target: "/en/student-experience/life-in-geneva/"
     kind: page
     children: []
   - title: Housing
-    target: "/student-experience/housing/"
+    target: "/en/student-experience/housing/"
     kind: page
     children: []
   - title: Moving to Geneva
-    target: "/student-experience/moving-to-geneva/"
+    target: "/en/student-experience/moving-to-geneva/"
     kind: page
     children: []
 - title: Admissions & Aid
@@ -58,19 +58,19 @@ items:
   kind: blank
   children:
   - title: How to apply?
-    target: "/admissions/how-to-apply/"
+    target: "/en/admissions/how-to-apply/"
     kind: page
     children: []
   - title: Tuitions & Costs
-    target: "/admissions/tuition-costs/"
+    target: "/en/admissions/tuition-costs/"
     kind: page
     children: []
   - title: Financial Aid
-    target: "/admissions/financial-aid/"
+    target: "/en/admissions/financial-aid/"
     kind: page
     children: []
   - title: Incoming Students
-    target: "/admissions/incoming-students/"
+    target: "/en/admissions/incoming-students/"
     kind: page
     children: []
 - title: Community
@@ -78,43 +78,43 @@ items:
   kind: blank
   children:
   - title: The MIDS Community
-    target: "/community/the-mids-community/"
+    target: "/en/community/the-mids-community/"
     kind: page
     children: []
   - title: Faculty
-    target: "/community/faculty/"
+    target: "/en/community/faculty/"
     kind: page
     children: []
   - title: Team & Governance
-    target: "/community/team-governance/"
+    target: "/en/community/team-governance/"
     kind: page
     children: []
   - title: Current Students
-    target: "/community/current-students/"
+    target: "/en/community/current-students/"
     kind: page
     children: []
   - title: Alumni
-    target: "/community/alumni/"
+    target: "/en/community/alumni/"
     kind: page
     children: []
   - title: Partners
-    target: "/community/partners/"
+    target: "/en/community/partners/"
     kind: page
     children: []
 - title: About
-  target: "/about/"
+  target: "/en/about/"
   kind: page
   children:
   - title: The MIDS
-    target: "/about/the-mids/"
+    target: "/en/about/the-mids/"
     kind: page
     children: []
   - title: Our values
-    target: "/about/our-values/"
+    target: "/en/about/our-values/"
     kind: page
     children: []
   - title: Contact us
-    target: "/about/contact-us/"
+    target: "/en/about/contact-us/"
     kind: page
     children: []
 
