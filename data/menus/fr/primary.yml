@@ -1,0 +1,12 @@
+---
+title: Menu principal
+items:
+- title: Formations
+  target: "/fr/formations/"
+  kind: page
+  children: []
+- title: Diplômes
+  target: "/fr/diplomes/"
+  kind: page
+  children: []
+
