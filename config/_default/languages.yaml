@@ -11,6 +11,8 @@ en:
   permalinks:
     diplomas: /diplomas/:slug/
     programs: /programs/:slug/
+    persons: /team/:slug/
+    persons_categories: /team/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
@@ -35,6 +37,8 @@ fr:
   permalinks:
     diplomas: /diplomes/:slug/
     programs: /formations/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors

@@ -9,4 +9,8 @@ items:
   target: "/fr/diplomes/"
   kind: page
   children: []
+- title: Équipe
+  target: "/fr/equipe/"
+  kind: page
+  children: []
 
