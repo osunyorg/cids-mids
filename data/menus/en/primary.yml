@@ -21,6 +21,10 @@ items:
     target: "/en/academics/thematics/"
     kind: page
     children: []
+  - title: Internships & Fellowships
+    target: "/en/academics/internships-fellowships/"
+    kind: page
+    children: []
 - title: Student Experience
   target: "/en/student-experience/"
   kind: page
