@@ -117,4 +117,8 @@ items:
     target: "/en/about/contact-us/"
     kind: page
     children: []
+  - title: For recruiters
+    target: "/en/about/for-recruiters/"
+    kind: page
+    children: []
 
