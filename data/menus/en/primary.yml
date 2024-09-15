@@ -69,12 +69,12 @@ items:
     target: "/en/admissions/financial-aid/"
     kind: page
     children: []
-  - title: Admitted students
-    target: "/en/admissions/admitted-students/"
-    kind: page
-    children: []
   - title: Meet with us
     target: "/en/admissions/meet-with-us/"
+    kind: page
+    children: []
+  - title: Admitted students
+    target: "/en/admissions/admitted-students/"
     kind: page
     children: []
 - title: Community
