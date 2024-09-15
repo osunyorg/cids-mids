@@ -69,8 +69,8 @@ items:
     target: "/en/admissions/financial-aid/"
     kind: page
     children: []
-  - title: Incoming Students
-    target: "/en/admissions/incoming-students/"
+  - title: Admitted students
+    target: "/en/admissions/admitted-students/"
     kind: page
     children: []
 - title: Community
