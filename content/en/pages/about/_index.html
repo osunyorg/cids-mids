@@ -196,14 +196,23 @@ contents:
       
     ranks:
       self: false
+      children: 3
     data:
       options:
-        image: true
-        main_summary: true
-        summary: true
+        image: false
+        main_summary: false
+        summary: false
 
       layout: grid
       pages:
+        - path: "/en/about/contact-us/"
+          slug: "contact-us"
+          file: "pages/about/contact-us/_index.html"
+          external: false
+        - path: "/en/about/for-recruiters/"
+          slug: "for-recruiters"
+          file: "pages/about/for-recruiters/_index.html"
+          external: false
 
 
 
