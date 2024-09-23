@@ -5,10 +5,6 @@ items:
   target: "/en/academics/"
   kind: page
   children:
-  - title: Program overview
-    target: "/en/academics/program-overview/"
-    kind: page
-    children: []
   - title: Curriculum
     target: "/en/academics/curriculum/"
     kind: page
@@ -81,10 +77,6 @@ items:
   target: ''
   kind: blank
   children:
-  - title: The MIDS Community
-    target: "/en/community/the-mids-community/"
-    kind: page
-    children: []
   - title: Faculty
     target: "/en/community/faculty/"
     kind: page
