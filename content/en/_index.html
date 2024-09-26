@@ -641,17 +641,38 @@ contents:
   - kind: block
     template: pages
     title: >-
-      
+      What is the MIDS?
     ranks:
-      self: false
+      self: 3
+      children: 4
     data:
+      page: 
+        path: "/en/about/"
+        slug: "about"
+        file: "pages/about/_index.html"
       options:
-        image: true
+        image: false
         main_summary: true
-        summary: true
+        summary: false
 
-      layout: grid
+      layout: list
       pages:
+        - path: "/en/academics/"
+          slug: "academics"
+          file: "pages/academics/_index.html"
+          external: false
+        - path: "/en/student-experience/"
+          slug: "student-experience"
+          file: "pages/student-experience/_index.html"
+          external: false
+        - path: "/en/admissions/"
+          slug: "admissions"
+          file: "pages/admissions/_index.html"
+          external: false
+        - path: "/en/community/"
+          slug: "community"
+          file: "pages/community/_index.html"
+          external: false
 
 
 
