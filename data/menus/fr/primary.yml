@@ -1,16 +1,32 @@
 ---
 title: Menu principal
 items:
-- title: Formations
-  target: "/fr/formations/"
+- title: Actualités
+  target: "/fr/actualites/"
+  kind: page
+  children: []
+- title: Agenda
+  target: "/fr/agenda/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/fr/equipe/"
+  kind: page
+  children: []
+- title: Organisations
+  target: "/fr/organisations/"
+  kind: page
+  children: []
+- title: Campus
+  target: "/fr/campus/"
   kind: page
   children: []
 - title: Diplômes
   target: "/fr/diplomes/"
   kind: page
   children: []
-- title: Équipe
-  target: "/fr/equipe/"
+- title: Formations
+  target: "/fr/formations/"
   kind: page
   children: []
 
