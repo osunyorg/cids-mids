@@ -37,4 +37,8 @@ items:
     target: "/fr/admissions/tuition-costs/"
     kind: page
     children: []
+  - title: Financial Aid
+    target: "/fr/admissions/financial-aid/"
+    kind: page
+    children: []
 
