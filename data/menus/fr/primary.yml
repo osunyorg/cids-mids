@@ -33,6 +33,10 @@ items:
   target: "/fr/admissions/"
   kind: page
   children:
+  - title: How to apply?
+    target: "/fr/admissions/how-to-apply/"
+    kind: page
+    children: []
   - title: Tuition & Costs
     target: "/fr/admissions/tuition-costs/"
     kind: page
