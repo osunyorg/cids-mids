@@ -29,4 +29,12 @@ items:
   target: "/fr/formations/"
   kind: page
   children: []
+- title: Admissions
+  target: "/fr/admissions/"
+  kind: page
+  children:
+  - title: Tuition & Costs
+    target: "/fr/admissions/tuition-costs/"
+    kind: page
+    children: []
 
