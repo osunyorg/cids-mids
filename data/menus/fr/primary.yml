@@ -73,4 +73,8 @@ items:
     target: "/fr/admissions/financial-aid/"
     kind: page
     children: []
+  - title: Admitted students
+    target: "/fr/admissions/admitted-students/"
+    kind: page
+    children: []
 
