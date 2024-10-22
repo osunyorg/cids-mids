@@ -53,19 +53,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 63
+  seconds: 65
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Team
-    slug: "team"
-    position: 1
-    rank: 2
+    slug: >-
+      team
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -118,6 +126,8 @@ contents:
     template: persons
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
       children: 3
@@ -165,17 +175,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Governance
-    slug: "governance"
-    position: 2
-    rank: 2
+    slug: >-
+      governance
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       MIDS Committee
+    slug: >-
+      mids-committee
     ranks:
       self: 3
     data:
@@ -198,6 +215,8 @@ contents:
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -234,6 +253,8 @@ contents:
     template: chapter
     title: >-
       CIDS Council
+    slug: >-
+      cids-council
     ranks:
       self: 3
     data:
@@ -256,6 +277,8 @@ contents:
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -292,6 +315,8 @@ contents:
     template: chapter
     title: >-
       Advisory board
+    slug: >-
+      advisory-board
     ranks:
       self: 3
     data:
@@ -314,6 +339,8 @@ contents:
   - kind: block
     template: persons
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -350,6 +377,8 @@ contents:
     template: chapter
     title: >-
       Directoire
+    slug: >-
+      directoire
     ranks:
       self: 3
     data:
@@ -366,7 +395,6 @@ contents:
 
       credit: >-
         
-
 
 
 

@@ -56,19 +56,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 45
+  seconds: 46
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Meet the MIDS
-    slug: "meet-the-mids"
-    position: 1
-    rank: 2
+    slug: >-
+      meet-the-mids
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -89,16 +97,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Agenda
-    slug: "agenda"
-    position: 2
-    rank: 2
+    slug: >-
+      agenda
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: timeline
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -126,16 +141,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Info sessions
-    slug: "info-sessions"
-    position: 3
-    rank: 2
+    slug: >-
+      info-sessions
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -160,6 +182,8 @@ contents:
     template: video
     title: >-
       Recordings
+    slug: >-
+      recordings
     ranks:
       self: 3
     data:
@@ -190,7 +214,6 @@ contents:
           https://www.youtube.com/embed/WX4X8iudEGs?autoplay=1&amp;modestbranding=1&amp;rel=0
         iframe: >-
           <iframe class="youtube" loading="lazy" src="https://www.youtube.com/embed/WX4X8iudEGs" title="Academic Open House 2023"></iframe>
-
 
 
 
