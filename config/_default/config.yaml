@@ -4,5 +4,6 @@ removePathAccents: true
 pagination:
   pagerSize: 30
 params:
+  plausible: mids.ch
   search:
     active: false  
