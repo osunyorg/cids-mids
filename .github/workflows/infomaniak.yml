@@ -6,10 +6,10 @@ on:
       - main  # Set a branch to deploy
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}
-      cancel-in-progress: true
+      cancel-in-progress: true # Can cause difficulties to publish when lots of changes are done
     steps:
       - uses: actions/checkout@v3
         with:
@@ -32,7 +32,7 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Build
-        run: hugo -e production --minify
+        run: yarn osuny build
 
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
