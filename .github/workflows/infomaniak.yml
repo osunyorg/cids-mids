@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}
-      cancel-in-progress: true # Can cause difficulties to publish when lots of changes are done
+      cancel-in-progress: false # Can cause difficulties to publish when lots of changes are done
     steps:
       - uses: actions/checkout@v3
         with:
