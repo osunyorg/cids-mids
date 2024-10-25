@@ -6,7 +6,7 @@ items:
   kind: url
   children: []
 - title: MIDS
-  target: https://mids.ch
+  target: "/"
   kind: url
   children: []
 
