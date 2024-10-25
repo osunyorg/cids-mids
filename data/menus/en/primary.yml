@@ -21,6 +21,10 @@ items:
     target: "/en/academics/internships-fellowships/"
     kind: page
     children: []
+  - title: The MIDS in a Nutshell
+    target: "/en/academics/the-mids-in-a-nutshell/"
+    kind: page
+    children: []
 - title: Student Experience
   target: "/en/student-experience/"
   kind: page
