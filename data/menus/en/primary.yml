@@ -53,7 +53,7 @@ items:
   target: ''
   kind: blank
   children:
-  - title: How to apply?
+  - title: Admissions Requirements
     target: "/en/admissions/requirements/"
     kind: page
     children: []
