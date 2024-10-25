@@ -54,7 +54,7 @@ items:
   kind: blank
   children:
   - title: How to apply?
-    target: "/en/admissions/how-to-apply/"
+    target: "/en/admissions/requirements/"
     kind: page
     children: []
   - title: Tuitions & Costs
