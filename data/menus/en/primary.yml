@@ -54,8 +54,8 @@ items:
     kind: page
     children: []
 - title: Admissions & Aid
-  target: ''
-  kind: blank
+  target: "/en/admissions/"
+  kind: page
   children:
   - title: Admissions Requirements
     target: "/en/admissions/requirements/"
