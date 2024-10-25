@@ -74,8 +74,8 @@ items:
     kind: page
     children: []
 - title: Community
-  target: ''
-  kind: blank
+  target: "/en/community/"
+  kind: page
   children:
   - title: Faculty
     target: "/en/community/faculty/"
