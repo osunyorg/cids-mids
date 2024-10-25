@@ -158,6 +158,41 @@ contents:
 
 
   - kind: block
+    template: pages
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      self: false
+      children: 3
+    data:
+      page:
+        path: "/en/community/"
+        slug: "community"
+        file: "pages/community/_index.html"
+      options:
+        image: true
+        main_summary: true
+        summary: true
+
+      layout: grid
+      pages:
+        - path: "/en/community/team-governance/"
+          slug: "team-governance"
+          file: "pages/community/team-governance/_index.html"
+          external: false
+        - path: "/en/community/faculty/"
+          slug: "faculty"
+          file: "pages/community/faculty/_index.html"
+          external: false
+        - path: "/en/community/partners/"
+          slug: "partners"
+          file: "pages/community/partners/_index.html"
+          external: false
+
+
+  - kind: block
     template: title
     title: >-
       What do we stand for?
@@ -278,41 +313,6 @@ contents:
         - path: "/en/about/for-recruiters/"
           slug: "for-recruiters"
           file: "pages/about/for-recruiters/_index.html"
-          external: false
-
-
-  - kind: block
-    template: pages
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      self: false
-      children: 3
-    data:
-      page:
-        path: "/en/community/"
-        slug: "community"
-        file: "pages/community/_index.html"
-      options:
-        image: true
-        main_summary: true
-        summary: true
-
-      layout: grid
-      pages:
-        - path: "/en/community/team-governance/"
-          slug: "team-governance"
-          file: "pages/community/team-governance/_index.html"
-          external: false
-        - path: "/en/community/faculty/"
-          slug: "faculty"
-          file: "pages/community/faculty/_index.html"
-          external: false
-        - path: "/en/community/partners/"
-          slug: "partners"
-          file: "pages/community/partners/_index.html"
           external: false
 
 
