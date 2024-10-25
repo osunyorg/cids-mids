@@ -1,9 +1,12 @@
 header#document-header
-    .menu
-        .upper-menu
-            li > a.external-site
-                background: rgba(black, 0.2)
-    .pagefind-ui__toggle
-        color: white
-        &::after
-            border-color: white
+    nav
+        .menu
+            .upper-menu.nav-level-1 
+                li > a.external-site
+                    background: rgba(black, 0.2)
+                .pagefind-ui__toggle
+                    &::after
+                        color: white
+                    &::after,
+                    &:hover::after
+                        border-color: white
