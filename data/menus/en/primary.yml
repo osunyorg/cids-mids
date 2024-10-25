@@ -73,6 +73,10 @@ items:
     target: "/en/admissions/admitted-students/"
     kind: page
     children: []
+  - title: Application Procedure
+    target: "/en/admissions/application-procedure/"
+    kind: page
+    children: []
 - title: Community
   target: ''
   kind: blank
