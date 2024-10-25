@@ -26,29 +26,3 @@ en:
     researcher: researchers
     teacher: teachers
     volume: volumes
-fr:
-  title: >-
-    MIDS
-  contentDir: content/fr
-  languageCode: fr
-  languageName: Français
-  params:
-    social:
-  permalinks:
-    diplomas: /diplomes/:slug/
-    programs: /formations/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-  taxonomies:
-    administrator: administrators
-    author: authors
-    diploma: diplomas
-    events_category: events_categories
-    location: locations
-    organizations_category: organizations_categories
-    persons_category: persons_categories
-    posts_category: posts_categories
-    projects_category: projects_categories
-    researcher: researchers
-    teacher: teachers
-    volume: volumes
