@@ -53,7 +53,7 @@ items:
     target: "/en/student-experience/moving-to-switzerland/"
     kind: page
     children: []
-- title: Admissions & Aid
+- title: Admissions
   target: "/en/admissions/"
   kind: page
   children:
