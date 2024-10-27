@@ -150,14 +150,27 @@ contents:
       
     ranks:
       self: false
+      children: 3
     data:
       options:
         image: true
         main_summary: true
         summary: true
 
-      layout: grid
+      layout: alternate
       pages:
+        - path: "/en/about/the-mids/"
+          slug: "the-mids"
+          file: "pages/about/the-mids/_index.html"
+          external: false
+        - path: "/en/about/our-values/"
+          slug: "our-values"
+          file: "pages/about/our-values/_index.html"
+          external: false
+        - path: "/en/community/"
+          slug: "community"
+          file: "pages/community/_index.html"
+          external: false
 
 
 
