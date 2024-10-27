@@ -11,6 +11,8 @@ en:
   permalinks:
     diplomas: /diplomas/:slug/
     programs: /programs/:slug/
+    organizations: /organizations/:slug/
+    organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
   taxonomies:
@@ -37,6 +39,8 @@ fr:
   permalinks:
     diplomas: /diplomes/:slug/
     programs: /formations/:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
   taxonomies:
