@@ -48,7 +48,7 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 11
+  seconds: 12
   text: >-
     less than a minute
 contents:
@@ -123,13 +123,40 @@ contents:
   - kind: block
     template: title
     title: >-
-      How much does it cost?
+      How much does it cost and is it worth it?
     slug: >-
-      how-much-does-it-cost
+      how-much-does-it-cost-and-is-it-worth-it
     ranks:
       self: 2
     data:
       layout: collapsed
+
+
+  - kind: block
+    template: pages
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      self: false
+      children: 3
+    data:
+      options:
+        image: true
+        main_summary: true
+        summary: true
+
+      layout: grid
+      pages:
+        - path: "/en/admissions/tuition-costs/"
+          slug: "tuition-costs"
+          file: "pages/admissions/tuition-costs/_index.html"
+          external: false
+        - path: "/en/admissions/financial-aid/"
+          slug: "financial-aid"
+          file: "pages/admissions/financial-aid/_index.html"
+          external: false
 
 
 
