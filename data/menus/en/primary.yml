@@ -65,7 +65,7 @@ items:
     target: "/en/admissions/tuition-financial-planning/"
     kind: page
     children: []
-  - title: Financial Aid
+  - title: Scholarships
     target: "/en/admissions/scholarships/"
     kind: page
     children: []
