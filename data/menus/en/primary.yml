@@ -13,10 +13,6 @@ items:
     target: "/en/academics/career-services/"
     kind: page
     children: []
-  - title: Thematics
-    target: "/en/academics/thematics/"
-    kind: page
-    children: []
   - title: Internships & Fellowships
     target: "/en/academics/internships-fellowships/"
     kind: page
