@@ -105,16 +105,8 @@ items:
     target: "/en/about/the-mids/"
     kind: page
     children: []
-  - title: Our values
-    target: "/en/about/our-values/"
-    kind: page
-    children: []
   - title: Contact us
     target: "/en/about/contact-us/"
-    kind: page
-    children: []
-  - title: For recruiters
-    target: "/en/about/for-recruiters/"
     kind: page
     children: []
 
