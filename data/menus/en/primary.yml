@@ -25,6 +25,10 @@ items:
     target: "/en/academics/the-mids-in-a-nutshell/"
     kind: page
     children: []
+  - title: MIDS-NUS Double Degree
+    target: "/en/academics/curriculum/mids-nus-double-degree/"
+    kind: page
+    children: []
 - title: Student Experience
   target: "/en/student-experience/"
   kind: page
