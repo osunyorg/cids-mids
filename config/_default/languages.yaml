@@ -8,6 +8,12 @@ en:
   languageName: English
   params:
     social:
+      email: >-
+        info@mids.ch
+      linkedin: >-
+        https://www.linkedin.com/school/master-in-international-dispute-settlement-mids-/
+      facebook: >-
+        https://www.facebook.com/midsllm/
   permalinks:
     diplomas: /diplomas/:slug/
     programs: /programs/:slug/
