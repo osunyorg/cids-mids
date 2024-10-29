@@ -49,10 +49,6 @@ items:
     target: "/en/student-experience/housing/"
     kind: page
     children: []
-  - title: Moving to Switzerland
-    target: "/en/student-experience/moving-to-switzerland/"
-    kind: page
-    children: []
 - title: Admissions
   target: "/en/admissions/"
   kind: page
