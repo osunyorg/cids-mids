@@ -62,7 +62,7 @@ items:
     kind: page
     children: []
   - title: Tuitions & Costs
-    target: "/en/admissions/tuition-costs/"
+    target: "/en/admissions/tuition-financial-planning/"
     kind: page
     children: []
   - title: Financial Aid
