@@ -15,6 +15,10 @@ en:
       facebook: >-
         https://www.facebook.com/midsllm/
   permalinks:
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+    posts: /posts/:year-:month-:day-:slug/
+    posts_categories: /posts/:slug/
     diplomas: /diplomas/:slug/
     programs: /programs/:slug/
     organizations: /organizations/:slug/
@@ -43,6 +47,10 @@ fr:
   params:
     social:
   permalinks:
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    posts_categories: /actualites/:slug/
     diplomas: /diplomes/:slug/
     programs: /formations/:slug/
     organizations: /organisations/:slug/
