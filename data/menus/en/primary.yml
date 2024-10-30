@@ -5,7 +5,7 @@ items:
   target: "/en/academics/"
   kind: page
   children:
-  - title: The MIDS in a Nutshell
+  - title: Program Overview
     target: "/en/academics/academic-overview/"
     kind: page
     children: []
