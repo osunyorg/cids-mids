@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: Program Overview
-    target: "/en/academics/academic-overview/"
+    target: "/en/academics/program-overview/"
     kind: page
     children: []
   - title: Curriculum
