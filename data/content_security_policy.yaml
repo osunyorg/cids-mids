@@ -10,3 +10,4 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
+  - "www.paypal.com"
