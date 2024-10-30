@@ -64,7 +64,7 @@ header_cta:
   target: "/en/about/"
   external: false
 contents_reading_time:
-  seconds: 70
+  seconds: 71
   text: >-
     1 minute
 contents:
@@ -402,16 +402,61 @@ contents:
 
 
   - kind: block
-    template: title
+    template: agenda
     title: >-
-      News &amp; Events
+      Upcoming MIDS &amp; CIDS events
     slug: >-
-      news-events
+      upcoming-mids-cids-events
     ranks:
-      self: 2
+      self: 3
+      children: 4
     data:
-      layout: classic
+      mode: all
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
 
+      layout: large
+      description: >-
+        
+
+      no_event_message: >-
+        
+
+      title_link: "/en/agenda/"
+      events:
+        - path: "/en/agenda/2024-11-15-4th-mids-alumni-association-annual-conference/"
+          file: "events/2024-11-15-4th-mids-alumni-association-annual-conference.html"
+
+
+  - kind: block
+    template: posts
+    title: >-
+      News from the MIDS
+    slug: >-
+      news-from-the-mids
+    ranks:
+      self: 3
+      children: 4
+    data:
+      mode: all
+      all: true
+      layout: list
+      options:
+        author: false
+        categories: false
+        date: false
+        image: true
+        reading_time: false
+        subtitle: true
+        summary: true
+
+      posts:
+        - "2024/2024-10-30-new-websites-launch"
 
 
 
