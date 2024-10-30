@@ -69,7 +69,7 @@ items:
     target: "/en/admissions/application-procedure/"
     kind: page
     children: []
-  - title: Apply now!
+  - title: Application Portal
     target: https://campus.iheid.ch/ISAP/!formInscrs.connection?ww_c_formulaire=MIDS_2025-2026
     kind: url
     children: []
