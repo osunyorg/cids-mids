@@ -30,7 +30,7 @@ items:
   kind: page
   children:
   - title: MIDS Campus
-    target: "/en/student-experience/mids-campus/"
+    target: "/en/student-experience/facilities/"
     kind: page
     children: []
   - title: Classroom Experience
