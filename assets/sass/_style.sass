@@ -8,13 +8,6 @@
                 figure
                         width: columns(10)
 
-// toc
-.document-content
-    @include media-breakpoint-up(desktop)
-        > .toc-cta
-            html:not(.is-scrolling-down) &
-                transform: translateY(calc(var(--header-height) + var(--grid-gutter)))
-
 // header
 header#document-header
     nav
