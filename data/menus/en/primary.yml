@@ -61,7 +61,7 @@ items:
     target: "/en/admissions/application-procedure/"
     kind: page
     children: []
-  - title: Tuitions & Costs
+  - title: Tuition & Financial Planning
     target: "/en/admissions/tuition-financial-planning/"
     kind: page
     children: []
