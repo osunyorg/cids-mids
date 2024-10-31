@@ -33,12 +33,12 @@ items:
     target: "/en/student-experience/campus-1/"
     kind: page
     children: []
-  - title: Classroom Experience
-    target: "/en/student-experience/classroom-experience/"
-    kind: page
-    children: []
   - title: Facilities & Services
     target: "/en/student-experience/facilities-services/"
+    kind: page
+    children: []
+  - title: Classroom Experience
+    target: "/en/student-experience/classroom-experience/"
     kind: page
     children: []
   - title: Life in Geneva
