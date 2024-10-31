@@ -18,7 +18,12 @@
 // header
 header#document-header
     nav
-        @include media-breakpoint-down(desktop)
-            .menu
+        .menu
+            .upper-menu.nav-level-1
+                .pagefind-ui__toggle
+                    &::after
+                        color: var(--color-background)
+                        border-color: var(--color-background)
+            @include media-breakpoint-down(desktop)
                 .nav-level-1 > li:not(:last-child)
                     border-color: rgba(255,255,255, 0.4)
