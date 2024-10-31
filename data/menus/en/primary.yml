@@ -30,7 +30,7 @@ items:
   kind: page
   children:
   - title: MIDS Campus
-    target: "/en/student-experience/mids-campus/"
+    target: "/en/student-experience/facilities/"
     kind: page
     children: []
   - title: Classroom Experience
@@ -69,8 +69,8 @@ items:
     target: "/en/admissions/application-procedure/"
     kind: page
     children: []
-  - title: Apply now!
-    target: https://campus.iheid.ch/ISAP/!formInscrs.connection?ww_c_formulaire=MIDS_2024-2025
+  - title: Application Portal
+    target: https://campus.iheid.ch/ISAP/!formInscrs.connection?ww_c_formulaire=MIDS_2025-2026
     kind: url
     children: []
 - title: Community
