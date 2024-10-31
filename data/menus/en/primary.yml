@@ -57,16 +57,16 @@ items:
     target: "/en/admissions/requirements/"
     kind: page
     children: []
+  - title: Application Procedure
+    target: "/en/admissions/application-procedure/"
+    kind: page
+    children: []
   - title: Tuitions & Costs
     target: "/en/admissions/tuition-financial-planning/"
     kind: page
     children: []
   - title: Scholarships
     target: "/en/admissions/scholarships/"
-    kind: page
-    children: []
-  - title: Application Procedure
-    target: "/en/admissions/application-procedure/"
     kind: page
     children: []
   - title: Application Portal
