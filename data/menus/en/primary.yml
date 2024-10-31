@@ -37,16 +37,16 @@ items:
     target: "/en/student-experience/facilities-services/"
     kind: page
     children: []
+  - title: Housing
+    target: "/en/student-experience/housing/"
+    kind: page
+    children: []
   - title: Classroom Experience
     target: "/en/student-experience/classroom-experience/"
     kind: page
     children: []
   - title: Life in Geneva
     target: "/en/student-experience/life-in-geneva/"
-    kind: page
-    children: []
-  - title: Housing
-    target: "/en/student-experience/housing/"
     kind: page
     children: []
 - title: Admissions
