@@ -13,7 +13,7 @@ items:
     target: "/en/academics/curriculum/"
     kind: page
     children: []
-  - title: Career services
+  - title: Careers
     target: "/en/academics/career-services/"
     kind: page
     children: []
@@ -29,44 +29,44 @@ items:
   target: "/en/student-experience/"
   kind: page
   children:
-  - title: MIDS Campus
+  - title: Campus
     target: "/en/student-experience/campus-1/"
     kind: page
     children: []
-  - title: Classroom Experience
-    target: "/en/student-experience/classroom-experience/"
-    kind: page
-    children: []
-  - title: Student Services
+  - title: Facilities & Services
     target: "/en/student-experience/facilities-services/"
-    kind: page
-    children: []
-  - title: Life in Geneva
-    target: "/en/student-experience/life-in-geneva/"
     kind: page
     children: []
   - title: Housing
     target: "/en/student-experience/housing/"
     kind: page
     children: []
+  - title: Classroom Experience
+    target: "/en/student-experience/classroom-experience/"
+    kind: page
+    children: []
+  - title: Life in Geneva
+    target: "/en/student-experience/life-in-geneva/"
+    kind: page
+    children: []
 - title: Admissions
   target: "/en/admissions/"
   kind: page
   children:
-  - title: Admissions Requirements
+  - title: Application Requirements
     target: "/en/admissions/requirements/"
     kind: page
     children: []
-  - title: Tuitions & Costs
+  - title: Application Procedure
+    target: "/en/admissions/application-procedure/"
+    kind: page
+    children: []
+  - title: Tuition & Costs
     target: "/en/admissions/tuition-financial-planning/"
     kind: page
     children: []
   - title: Scholarships
     target: "/en/admissions/scholarships/"
-    kind: page
-    children: []
-  - title: Application Procedure
-    target: "/en/admissions/application-procedure/"
     kind: page
     children: []
   - title: Application Portal
@@ -101,11 +101,11 @@ items:
   target: "/en/about/"
   kind: page
   children:
-  - title: The MIDS
+  - title: About the MIDS
     target: "/en/about/about-the-mids/"
     kind: page
     children: []
-  - title: Contact us
+  - title: Contact Us
     target: "/en/about/contact-us/"
     kind: page
     children: []
