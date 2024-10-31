@@ -1,12 +1,12 @@
 // Home
 .page__home
-    .hero
-        .content
-            .hero-text
-                width: columns(10)
-            figure
-                @include media-breakpoint-up(desktop)
+    @include media-breakpoint-up(desktop)
+        .hero
+            .content
+                .hero-text
                     width: columns(10)
+                figure
+                        width: columns(10)
 
 // toc
 .document-content
@@ -14,3 +14,11 @@
         > .toc-cta
             html:not(.is-scrolling-down) &
                 transform: translateY(calc(var(--header-height) + var(--grid-gutter)))
+
+// header
+header#document-header
+    nav
+        @include media-breakpoint-down(desktop)
+            .menu
+                .nav-level-1 > li:not(:last-child)
+                    border-color: rgba(255,255,255, 0.4)
