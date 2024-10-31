@@ -1,6 +1,6 @@
 <IfModule mod_expires.c>
-  ExpiresActive On 
-  
+  ExpiresActive On
+
   AddType application/font-woff   .woff
   AddType application/font-woff2  .woff2
 
@@ -21,4 +21,11 @@
   ExpiresByType font/woff2  "access plus 1 year"
   ExpiresByType application/font-woff2  "access plus 1 year"
   ExpiresByType application/x-font-woff2  "access plus 1 year"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  RewriteCond %{HTTP_HOST} ^www\.mids\.ch [NC]
+  RewriteRule ^(.*)$ https://mids.ch/$1 [L,R=301]
 </IfModule>
