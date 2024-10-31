@@ -37,7 +37,7 @@ items:
     target: "/en/student-experience/classroom-experience/"
     kind: page
     children: []
-  - title: Student Services
+  - title: Facilities & Services
     target: "/en/student-experience/facilities-services/"
     kind: page
     children: []
