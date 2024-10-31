@@ -30,7 +30,7 @@ items:
   kind: page
   children:
   - title: MIDS Campus
-    target: "/en/student-experience/facilities/"
+    target: "/en/student-experience/campus-1/"
     kind: page
     children: []
   - title: Classroom Experience
@@ -38,7 +38,7 @@ items:
     kind: page
     children: []
   - title: Student Services
-    target: "/en/student-experience/student-services/"
+    target: "/en/student-experience/facilities-services/"
     kind: page
     children: []
   - title: Life in Geneva
