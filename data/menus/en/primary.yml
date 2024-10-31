@@ -2,71 +2,71 @@
 title: Main menu
 items:
 - title: Academics
-  target: "/en/academics/"
+  target: "/academics/"
   kind: page
   children:
   - title: Program Overview
-    target: "/en/academics/program-overview/"
+    target: "/academics/program-overview/"
     kind: page
     children: []
   - title: Curriculum
-    target: "/en/academics/curriculum/"
+    target: "/academics/curriculum/"
     kind: page
     children: []
   - title: Careers
-    target: "/en/academics/career-services/"
+    target: "/academics/career-services/"
     kind: page
     children: []
   - title: Internships & Fellowships
-    target: "/en/academics/internships-fellowships/"
+    target: "/academics/internships-fellowships/"
     kind: page
     children: []
   - title: MIDS-NUS Double Degree
-    target: "/en/academics/mids-nus-double-degree/"
+    target: "/academics/mids-nus-double-degree/"
     kind: page
     children: []
 - title: Student Experience
-  target: "/en/student-experience/"
+  target: "/student-experience/"
   kind: page
   children:
   - title: Campus
-    target: "/en/student-experience/campus-1/"
+    target: "/student-experience/campus-1/"
     kind: page
     children: []
   - title: Facilities & Services
-    target: "/en/student-experience/facilities-services/"
+    target: "/student-experience/facilities-services/"
     kind: page
     children: []
   - title: Housing
-    target: "/en/student-experience/housing/"
+    target: "/student-experience/housing/"
     kind: page
     children: []
   - title: Classroom Experience
-    target: "/en/student-experience/classroom-experience/"
+    target: "/student-experience/classroom-experience/"
     kind: page
     children: []
   - title: Life in Geneva
-    target: "/en/student-experience/life-in-geneva/"
+    target: "/student-experience/life-in-geneva/"
     kind: page
     children: []
 - title: Admissions
-  target: "/en/admissions/"
+  target: "/admissions/"
   kind: page
   children:
   - title: Application Requirements
-    target: "/en/admissions/requirements/"
+    target: "/admissions/requirements/"
     kind: page
     children: []
   - title: Application Procedure
-    target: "/en/admissions/application-procedure/"
+    target: "/admissions/application-procedure/"
     kind: page
     children: []
   - title: Tuition & Costs
-    target: "/en/admissions/tuition-financial-planning/"
+    target: "/admissions/tuition-financial-planning/"
     kind: page
     children: []
   - title: Scholarships
-    target: "/en/admissions/scholarships/"
+    target: "/admissions/scholarships/"
     kind: page
     children: []
   - title: Application Portal
@@ -74,39 +74,39 @@ items:
     kind: url
     children: []
 - title: Community
-  target: "/en/community/"
+  target: "/community/"
   kind: page
   children:
   - title: Faculty
-    target: "/en/community/faculty/"
+    target: "/community/faculty/"
     kind: page
     children: []
   - title: Team & Governance
-    target: "/en/community/team-governance/"
+    target: "/community/team-governance/"
     kind: page
     children: []
   - title: Current Students
-    target: "/en/community/current-students/"
+    target: "/community/current-students/"
     kind: page
     children: []
   - title: Alumni
-    target: "/en/community/alumni/"
+    target: "/community/alumni/"
     kind: page
     children: []
   - title: Partners
-    target: "/en/community/partners/"
+    target: "/community/partners/"
     kind: page
     children: []
 - title: About
-  target: "/en/about/"
+  target: "/about/"
   kind: page
   children:
   - title: About the MIDS
-    target: "/en/about/about-the-mids/"
+    target: "/about/about-the-mids/"
     kind: page
     children: []
   - title: Contact Us
-    target: "/en/about/contact-us/"
+    target: "/about/contact-us/"
     kind: page
     children: []
 
