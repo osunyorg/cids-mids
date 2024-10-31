@@ -101,7 +101,7 @@ items:
   target: "/en/about/"
   kind: page
   children:
-  - title: The MIDS
+  - title: About the MIDS
     target: "/en/about/about-the-mids/"
     kind: page
     children: []
