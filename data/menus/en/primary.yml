@@ -13,7 +13,7 @@ items:
     target: "/en/academics/curriculum/"
     kind: page
     children: []
-  - title: Career services
+  - title: Careers
     target: "/en/academics/career-services/"
     kind: page
     children: []
