@@ -22,6 +22,3 @@
   ExpiresByType application/font-woff2  "access plus 1 year"
   ExpiresByType application/x-font-woff2  "access plus 1 year"
 </IfModule>
-
-RewriteEngine on
-RewriteRule ^$ http://cids.ch/mids [R=301,L]
