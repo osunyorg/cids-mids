@@ -109,4 +109,8 @@ items:
     target: "/about/contact-us/"
     kind: page
     children: []
+  - title: Events & News
+    target: https://cids.ch/events-and-news/
+    kind: url
+    children: []
 
