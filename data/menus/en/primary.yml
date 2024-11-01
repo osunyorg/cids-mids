@@ -109,4 +109,8 @@ items:
     target: "/about/contact-us/"
     kind: page
     children: []
+- title: News
+  target: "/posts/"
+  kind: page
+  children: []
 
