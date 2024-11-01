@@ -105,10 +105,6 @@ items:
     target: "/about/about-the-mids/"
     kind: page
     children: []
-  - title: Events & News
-    target: https://cids.ch/events-and-news/
-    kind: url
-    children: []
   - title: Contact Us
     target: "/about/contact-us/"
     kind: page
