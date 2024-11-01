@@ -105,12 +105,12 @@ items:
     target: "/about/about-the-mids/"
     kind: page
     children: []
-  - title: Contact Us
-    target: "/about/contact-us/"
-    kind: page
-    children: []
   - title: News
     target: "/posts/"
+    kind: page
+    children: []
+  - title: Contact Us
+    target: "/about/contact-us/"
     kind: page
     children: []
 
