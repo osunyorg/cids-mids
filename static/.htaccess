@@ -29,3 +29,5 @@
   RewriteCond %{HTTP_HOST} ^www\.mids\.ch [NC]
   RewriteRule ^(.*)$ https://mids.ch/$1 [L,R=301]
 </IfModule>
+
+ErrorDocument 404 /404.html
