@@ -113,4 +113,8 @@ items:
     target: "/about/contact-us/"
     kind: page
     children: []
+  - title: Events
+    target: "/agenda/"
+    kind: page
+    children: []
 
