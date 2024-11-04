@@ -20,3 +20,23 @@ header#document-header
             @include media-breakpoint-down(desktop)
                 .nav-level-1 > li:not(:last-child)
                     border-color: rgba(255,255,255, 0.4)
+
+// search
+#search
+    background: var(--color-text)
+    color: var(--color-background)
+    a
+        color: var(--color-background)
+    .pagefind-ui
+        &::before,
+        input
+            background: var(--color-text)
+            color: var(--color-background)
+            border-bottom-color: var(--color-background)
+        &__search-input:focus
+            border-bottom-color: var(--color-background)
+        form::after,
+        &__message
+            color: rgba(255,255,255, 0.8)
+        &__button[type="button"]
+            @include link(var(--color-background))
