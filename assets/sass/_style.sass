@@ -6,9 +6,12 @@
                 .hero-text
                     width: columns(10)
                 figure
-                        width: columns(10)
+                    width: columns(10)
+            @include media-breakpoint-up(desktop)
+                > .container
+                    padding-bottom: $spacing-6
 
-// header
+    // header
 header#document-header
     @include media-breakpoint-down(desktop)
         .menu .nav-level-1 > li:not(:last-child)
