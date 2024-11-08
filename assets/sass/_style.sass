@@ -10,33 +10,37 @@
 
 // header
 header#document-header
-    nav
-        .menu
-            .upper-menu.nav-level-1
-                .pagefind-ui__toggle
-                    &::after
-                        color: var(--color-background)
-                        border-color: var(--color-background)
-            @include media-breakpoint-down(desktop)
-                .nav-level-1 > li:not(:last-child)
-                    border-color: rgba(255,255,255, 0.4)
-
+    @include media-breakpoint-down(desktop)
+        .menu .nav-level-1 > li:not(:last-child)
+            border-bottom: 1px solid rgba(255,255,255, 0.2)
 // search
-#search
-    background: var(--color-text)
-    color: var(--color-background)
-    a
-        color: var(--color-background)
-    .pagefind-ui
-        &::before,
-        input
-            background: var(--color-text)
-            color: var(--color-background)
-            border-bottom-color: var(--color-background)
-        &__search-input:focus
-            border-bottom-color: var(--color-background)
-        form::after,
-        &__message
-            color: rgba(255,255,255, 0.8)
-        &__button[type="button"]
-            @include link(var(--color-background))
+body,
+body.page-dark_blue_background
+    .pagefind-ui__toggle
+        &::after
+            border-color: $color-background
+        &,
+        &::after
+            color: $color-background
+    #search
+        background: $color-text
+        color: $color-background
+        a,
+        .search__close
+            color: $color-background
+        .pagefind-ui
+            &::before,
+            input
+                background: $color-text
+                color: $color-background
+                border-bottom-color: $color-background
+            &__search-input:focus
+                border-bottom-color: $color-background
+            form::after,
+            &__message
+                color: rgba(255,255,255, 0.8)
+            &__button[type="button"]
+                @include link(var(--color-background))
+            mark
+                background: $color-electric-blue
+                color: $color-background
