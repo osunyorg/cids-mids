@@ -9,22 +9,28 @@ items:
     target: "/academics/program-overview/"
     kind: page
     children: []
+    file: content/en/pages/academics/program-overview/_index.html
   - title: Curriculum
     target: "/academics/curriculum/"
     kind: page
     children: []
+    file: content/en/pages/academics/curriculum/_index.html
   - title: Careers
     target: "/academics/career-services/"
     kind: page
     children: []
+    file: content/en/pages/academics/career-services/_index.html
   - title: Internships & Fellowships
     target: "/academics/internships-fellowships/"
     kind: page
     children: []
+    file: content/en/pages/academics/internships-fellowships/_index.html
   - title: MIDS-NUS Double Degree
     target: "/academics/mids-nus-double-degree/"
     kind: page
     children: []
+    file: content/en/pages/academics/mids-nus-double-degree/_index.html
+  file: content/en/pages/academics/_index.html
 - title: Student Experience
   target: "/student-experience/"
   kind: page
@@ -33,22 +39,28 @@ items:
     target: "/student-experience/campus-1/"
     kind: page
     children: []
+    file: content/en/pages/student-experience/campus-1/_index.html
   - title: Facilities & Services
     target: "/student-experience/facilities-services/"
     kind: page
     children: []
+    file: content/en/pages/student-experience/facilities-services/_index.html
   - title: Housing
     target: "/student-experience/housing/"
     kind: page
     children: []
+    file: content/en/pages/student-experience/housing/_index.html
   - title: Classroom Experience
     target: "/student-experience/classroom-experience/"
     kind: page
     children: []
+    file: content/en/pages/student-experience/classroom-experience/_index.html
   - title: Life in Geneva
     target: "/student-experience/life-in-geneva/"
     kind: page
     children: []
+    file: content/en/pages/student-experience/life-in-geneva/_index.html
+  file: content/en/pages/student-experience/_index.html
 - title: Admissions
   target: "/admissions/"
   kind: page
@@ -57,22 +69,27 @@ items:
     target: "/admissions/requirements/"
     kind: page
     children: []
+    file: content/en/pages/admissions/requirements/_index.html
   - title: Application Procedure
     target: "/admissions/application-procedure/"
     kind: page
     children: []
+    file: content/en/pages/admissions/application-procedure/_index.html
   - title: Tuition & Costs
     target: "/admissions/tuition-financial-planning/"
     kind: page
     children: []
+    file: content/en/pages/admissions/tuition-financial-planning/_index.html
   - title: Scholarships
     target: "/admissions/scholarships/"
     kind: page
     children: []
+    file: content/en/pages/admissions/scholarships/_index.html
   - title: Application Portal
     target: https://campus.iheid.ch/ISAP/!formInscrs.connection?ww_c_formulaire=MIDS_2025-2026
     kind: url
     children: []
+  file: content/en/pages/admissions/_index.html
 - title: Community
   target: "/community/"
   kind: page
@@ -81,22 +98,28 @@ items:
     target: "/community/faculty/"
     kind: page
     children: []
+    file: content/en/pages/community/faculty/_index.html
   - title: Team & Governance
     target: "/community/team-governance/"
     kind: page
     children: []
+    file: content/en/pages/community/team-governance/_index.html
   - title: Current Students
     target: "/community/current-students/"
     kind: page
     children: []
+    file: content/en/pages/community/current-students/_index.html
   - title: Alumni
     target: "/community/alumni/"
     kind: page
     children: []
+    file: content/en/pages/community/alumni/_index.html
   - title: Partners
     target: "/community/partners/"
     kind: page
     children: []
+    file: content/en/pages/community/partners/_index.html
+  file: content/en/pages/community/_index.html
 - title: About
   target: "/about/"
   kind: page
@@ -105,16 +128,21 @@ items:
     target: "/about/about-the-mids/"
     kind: page
     children: []
+    file: content/en/pages/about/about-the-mids/_index.html
   - title: News
     target: "/posts/"
     kind: page
     children: []
+    file: content/en/posts/_index.html
   - title: Events
     target: "/agenda/"
     kind: page
     children: []
+    file: content/en/events/_index.html
   - title: Contact Us
     target: "/about/contact-us/"
     kind: page
     children: []
+    file: content/en/pages/about/contact-us/_index.html
+  file: content/en/pages/about/_index.html
 
