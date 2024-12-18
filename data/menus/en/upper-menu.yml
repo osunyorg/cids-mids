@@ -4,9 +4,11 @@ items:
 - title: CIDS
   target: https://cids.ch
   kind: url
+  new_tab: true
   children: []
 - title: MIDS
   target: "/"
   kind: url
+  new_tab: false
   children: []
 
