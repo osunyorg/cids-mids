@@ -6,4 +6,4 @@ pagination:
 params:
   plausible: mids.ch
   debug:
-    productionUrl: "https://mids.ch/"
+    productionUrl: https://mids.ch
