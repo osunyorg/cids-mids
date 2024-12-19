@@ -5,3 +5,13 @@ pagination:
   pagerSize: 30
 params:
   plausible: mids.ch
+  debug:
+    productionUrl: "https://mids.ch/"
+  menu:
+    primary:
+      level_2:
+        title:
+          active: true
+          summary:
+            active: true
+            truncate: 0
