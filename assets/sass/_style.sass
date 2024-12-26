@@ -13,6 +13,10 @@
 
     // header
 header#document-header
+    .upper-menu
+        a[href*="https://"], 
+        a[href*="http://"]
+            background-color: rgba(0,0,0, 0.2) !important
     @include media-breakpoint-down(desktop)
         .menu .nav-level-1 > li:not(:last-child)
             border-bottom: 1px solid rgba(255,255,255, 0.2)
