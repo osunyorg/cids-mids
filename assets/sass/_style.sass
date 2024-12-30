@@ -52,3 +52,8 @@ body.page-dark_blue_background
             mark
                 background: $color-electric-blue
                 color: $color-background
+
+body.page-dark_blue_background
+    @include media-breakpoint-down(desktop)
+        .toc-cta
+            @extend .sr-only
