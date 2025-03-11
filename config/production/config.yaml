@@ -2,6 +2,11 @@
 
 baseURL: https://mids.ch
 
+## OSUNY
+osuny:
+  website:
+    id: 216c68ca-f1d3-41d3-87b2-ff2727e59ad6
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
