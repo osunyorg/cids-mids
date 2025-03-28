@@ -119,7 +119,7 @@ items:
     path: "/pages/admissions/scholarships"
     file: content/en/pages/admissions/scholarships/_index.html
   - title: Application Portal
-    target: https://mids.ch/404
+    target: https://mids.ch/
     kind: url
     new_tab: true
     children: []
