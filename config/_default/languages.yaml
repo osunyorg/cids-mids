@@ -27,20 +27,6 @@ en:
           value: >-
             https://www.linkedin.com/school/master-in-international-dispute-settlement-mids-/
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /exhibitions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    posts: /posts/:year-:month-:day-:slug/
-    posts_categories: /posts/:slug/
-    diplomas: /diplomas/:slug/
-    programs_categories: /programs/categories/:slug/
-    programs: /programs/:slug/
-    organizations: /organizations/:slug/
-    organizations_categories: /organizations/categories/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
