@@ -90,6 +90,13 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: The MIDS Advantage
+    target: "/admissions/the-mids-advantage/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/admissions/the-mids-advantage"
+    file: content/en/pages/admissions/the-mids-advantage/_index.html
   - title: Application Requirements
     target: "/admissions/requirements/"
     kind: page
