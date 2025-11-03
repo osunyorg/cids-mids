@@ -126,7 +126,7 @@ items:
     path: "/pages/admissions/scholarships"
     file: content/en/pages/admissions/scholarships/_index.html
   - title: Application Portal
-    target: https://mids.ch/
+    target: https://inscription.unige.ch/en-US/signin?ReturnUrl=%2Fen-US%2Fapply-to-edition%2F%3Fid%3DMIDS26
     kind: url
     new_tab: true
     children: []
