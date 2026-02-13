@@ -2,211 +2,296 @@
 title: Main menu
 items:
 - title: Academics
+  slug: academics
   target: "/academics/"
   kind: page
   new_tab: false
   children:
   - title: Program Overview
+    slug: program-overview
     target: "/academics/program-overview/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/academics/program-overview"
     file: content/en/pages/academics/program-overview/_index.html
   - title: Curriculum
+    slug: curriculum
     target: "/academics/curriculum/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/academics/curriculum"
     file: content/en/pages/academics/curriculum/_index.html
   - title: Careers
+    slug: careers
     target: "/academics/career-services/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/academics/career-services"
     file: content/en/pages/academics/career-services/_index.html
   - title: Internships & Fellowships
+    slug: internships-fellowships
     target: "/academics/internships-fellowships/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/academics/internships-fellowships"
     file: content/en/pages/academics/internships-fellowships/_index.html
   - title: MIDS-NUS Double Degree
+    slug: mids-nus-double-degree
     target: "/academics/mids-nus-double-degree/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/academics/mids-nus-double-degree"
     file: content/en/pages/academics/mids-nus-double-degree/_index.html
+  descendants_targets:
+  - "/academics/career-services/"
+  - "/academics/curriculum/"
+  - "/academics/internships-fellowships/"
+  - "/academics/mids-nus-double-degree/"
+  - "/academics/program-overview/"
   path: "/pages/academics"
   file: content/en/pages/academics/_index.html
 - title: Student Experience
+  slug: student-experience
   target: "/student-experience/"
   kind: page
   new_tab: false
   children:
   - title: Campus
+    slug: campus
     target: "/student-experience/campus-1/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/student-experience/campus-1"
     file: content/en/pages/student-experience/campus-1/_index.html
   - title: Facilities & Services
+    slug: facilities-services
     target: "/student-experience/facilities-services/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/student-experience/facilities-services"
     file: content/en/pages/student-experience/facilities-services/_index.html
   - title: Housing
+    slug: housing
     target: "/student-experience/housing/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/student-experience/housing"
     file: content/en/pages/student-experience/housing/_index.html
   - title: Classroom Experience
+    slug: classroom-experience
     target: "/student-experience/classroom-experience/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/student-experience/classroom-experience"
     file: content/en/pages/student-experience/classroom-experience/_index.html
   - title: Life in Geneva
+    slug: life-in-geneva
     target: "/student-experience/life-in-geneva/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/student-experience/life-in-geneva"
     file: content/en/pages/student-experience/life-in-geneva/_index.html
+  descendants_targets:
+  - "/student-experience/campus-1/"
+  - "/student-experience/classroom-experience/"
+  - "/student-experience/facilities-services/"
+  - "/student-experience/housing/"
+  - "/student-experience/life-in-geneva/"
   path: "/pages/student-experience"
   file: content/en/pages/student-experience/_index.html
 - title: Admissions
+  slug: admissions
   target: "/admissions/"
   kind: page
   new_tab: false
   children:
   - title: The MIDS Advantage
+    slug: the-mids-advantage
     target: "/admissions/the-mids-advantage/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/admissions/the-mids-advantage"
     file: content/en/pages/admissions/the-mids-advantage/_index.html
   - title: Application Requirements
+    slug: application-requirements
     target: "/admissions/requirements/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/admissions/requirements"
     file: content/en/pages/admissions/requirements/_index.html
   - title: Application Procedure
+    slug: application-procedure
     target: "/admissions/application-procedure/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/admissions/application-procedure"
     file: content/en/pages/admissions/application-procedure/_index.html
   - title: Tuition & Costs
+    slug: tuition-costs
     target: "/admissions/tuition-financial-planning/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/admissions/tuition-financial-planning"
     file: content/en/pages/admissions/tuition-financial-planning/_index.html
   - title: Scholarships
+    slug: scholarships
     target: "/admissions/scholarships/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/admissions/scholarships"
     file: content/en/pages/admissions/scholarships/_index.html
   - title: Application Portal
+    slug: application-portal
     target: https://inscription.unige.ch/en-US/signin?ReturnUrl=%2Fen-US%2Fapply-to-edition%2F%3Fid%3DMIDS26
     kind: url
     new_tab: true
     children: []
+    descendants_targets: []
+  descendants_targets:
+  - "/admissions/application-procedure/"
+  - "/admissions/requirements/"
+  - "/admissions/scholarships/"
+  - "/admissions/the-mids-advantage/"
+  - "/admissions/tuition-financial-planning/"
+  - https://inscription.unige.ch/en-US/signin?ReturnUrl=%2Fen-US%2Fapply-to-edition%2F%3Fid%3DMIDS26
   path: "/pages/admissions"
   file: content/en/pages/admissions/_index.html
 - title: Community
+  slug: community
   target: "/community/"
   kind: page
   new_tab: false
   children:
   - title: Faculty
+    slug: faculty
     target: "/community/faculty/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/community/faculty"
     file: content/en/pages/community/faculty/_index.html
   - title: Team & Governance
+    slug: team-governance
     target: "/community/team-governance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/community/team-governance"
     file: content/en/pages/community/team-governance/_index.html
   - title: Current Students
+    slug: current-students
     target: "/community/current-students/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/community/current-students"
     file: content/en/pages/community/current-students/_index.html
   - title: Alumni
+    slug: alumni
     target: "/community/alumni/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/community/alumni"
     file: content/en/pages/community/alumni/_index.html
   - title: Partners
+    slug: partners
     target: "/community/partners/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/community/partners"
     file: content/en/pages/community/partners/_index.html
+  descendants_targets:
+  - "/community/alumni/"
+  - "/community/current-students/"
+  - "/community/faculty/"
+  - "/community/partners/"
+  - "/community/team-governance/"
   path: "/pages/community"
   file: content/en/pages/community/_index.html
 - title: About
+  slug: about
   target: "/about/"
   kind: page
   new_tab: false
   children:
   - title: About the MIDS
+    slug: about-the-mids
     target: "/about/about-the-mids/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/about-the-mids"
     file: content/en/pages/about/about-the-mids/_index.html
   - title: News
+    slug: news
     target: "/posts/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/en/posts/_index.html
   - title: Events
+    slug: events
     target: "/agenda/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/events"
     file: content/en/events/_index.html
   - title: Contact Us
+    slug: contact-us
     target: "/about/contact-us/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/about/contact-us"
     file: content/en/pages/about/contact-us/_index.html
+  descendants_targets:
+  - "/about/about-the-mids/"
+  - "/about/contact-us/"
+  - "/agenda/"
+  - "/posts/"
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 
