@@ -7,6 +7,11 @@ osuny:
   website:
     id: 216c68ca-f1d3-41d3-87b2-ff2727e59ad6
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "mids.ch"
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
