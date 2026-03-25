@@ -9,13 +9,13 @@ items:
   children:
   - title: Program Overview
     slug: program-overview
-    target: "/academics/program-overview/"
+    target: "/academics/programme-overview/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/academics/program-overview"
-    file: content/en/pages/academics/program-overview/_index.html
+    path: "/pages/academics/programme-overview"
+    file: content/en/pages/academics/programme-overview/_index.html
   - title: Curriculum
     slug: curriculum
     target: "/academics/curriculum/"
@@ -57,7 +57,7 @@ items:
   - "/academics/curriculum/"
   - "/academics/internships-fellowships/"
   - "/academics/mids-nus-double-degree/"
-  - "/academics/program-overview/"
+  - "/academics/programme-overview/"
   path: "/pages/academics"
   file: content/en/pages/academics/_index.html
 - title: Student Experience
