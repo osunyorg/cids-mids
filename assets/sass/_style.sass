@@ -54,6 +54,18 @@ body.page-dark_blue_background
                 background: $color-electric-blue
                 color: $color-background
 
+.toc-cta
+    @include media-breakpoint-down(desktop)
+        --color-border: #{alphaColor($color-background, 0.4)}
+        --color-text: var(--color-background)
+
+.toc-container
+    --color-border: #{alphaColor($color-background, 0.4)}
+    --color-text: var(--color-background)
+    --color-text-alt: var(--color-text)
+    .toc-pages ol li
+        border-color: var(--color-border)
+
 body.page-dark_blue_background
     .toc-cta
         @extend .sr-only
