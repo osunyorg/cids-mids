@@ -57,3 +57,15 @@ body.page-dark_blue_background
 body.page-dark_blue_background
     .toc-cta
         @extend .sr-only
+
+.toc-container
+    .toc-content
+        .toc-title,
+        button
+            color: var(--color-background)
+        .toc-title,
+        .toc-pages ol > li
+            --color-border: rgba(255,255,255, 0.2)
+            border-color: var(--color-border)
+        ol li a
+            color: var(--color-background)
