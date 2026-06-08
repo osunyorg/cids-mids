@@ -31,28 +31,19 @@ body.page-dark_blue_background
         &,
         &::after
             color: $color-background
-    #search
+    dialog.pf-modal
         background: $color-text
         color: $color-background
-        a,
-        .search__close
-            color: $color-background
-        .pagefind-ui
-            &::before,
-            input
-                background: $color-text
-                color: $color-background
-                border-bottom-color: $color-background
-            &__search-input:focus
-                border-bottom-color: $color-background
-            form::after,
-            &__message
-                color: rgba(255,255,255, 0.8)
-            &__button[type="button"]
-                @include link(var(--color-background))
+        *,
+        *::after
+            color: $color-background !important
+        .pf-input-wrapper
+            border-color: $color-background
+            input::placeholder
+                color: $color-background-alt
+        .pf-modal-results
             mark
-                background: $color-electric-blue
-                color: $color-background
+                background-color: $color-electric-blue
 
 body.page-dark_blue_background
     .toc-cta
