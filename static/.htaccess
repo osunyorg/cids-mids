@@ -73,6 +73,7 @@ RedirectMatch permanent "^/en/team/prof\-makane\-m\-mbengue(/?)$" "/team/prof-ma
 RedirectMatch permanent "^/fr/community/team\-governance(/?)$" "/community/team-governance/"
 RedirectMatch permanent "^/en/academics/mids\-nus\-double\-degree(/?)$" "/academics/mids-nus-double-degree/"
 RedirectMatch permanent "^/en/community/alumni(/?)$" "/community/alumni/"
+RedirectMatch permanent "^/files/2026(/?)$" "/files/2026/new-bank-details-midspdf/"
 RedirectMatch permanent "^/en/team/andrea\-bianchi(/?)$" "/team/andrea-bianchi/"
 RedirectMatch permanent "^/posts/2022\-09\-22\-15\-years\-of\-the\-mids(/?)$" "/posts/2023-09-22-15-years-of-the-mids/"
 RedirectMatch permanent "^/en/team/professor\-jacques\-de\-werra(/?)$" "/team/professor-jacques-de-werra/"
