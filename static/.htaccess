@@ -51,6 +51,7 @@ RedirectMatch permanent "^/en/student\-experience/mids\-campus(/?)$" "/student-e
 RedirectMatch permanent "^/team/categories/uruguay(/?)$" "/team/categories/nationality/uruguay/"
 RedirectMatch permanent "^/en/team/kendra\-magraw(/?)$" "/team/kendra-magraw/"
 RedirectMatch permanent "^/en/team/tanya\-landon(/?)$" "/team/tanya-landon/"
+RedirectMatch permanent "^/team/categories/urugay(/?)$" "/team/categories/nationality/urugay/"
 RedirectMatch permanent "^/en/student\-experience/housing(/?)$" "/student-experience/housing/"
 RedirectMatch permanent "^/en/prospective\-students(/?)$" "/prospective-students/"
 RedirectMatch permanent "^/fr/admissions/tuition\-costs(/?)$" "/admissions/tuition-costs/"
