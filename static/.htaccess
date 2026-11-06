@@ -190,6 +190,7 @@ RedirectMatch permanent "^/en/team/professor\-stavros\-brekoulakis(/?)$" "/team/
 RedirectMatch permanent "^/fr/about/the\-mids(/?)$" "/about/the-mids/"
 RedirectMatch permanent "^/team/giovanna\-martins\-santana(/?)$" "/team/giovanna-santana/"
 RedirectMatch permanent "^/en/team/elliott\-geisinger(/?)$" "/team/elliott-geisinger/"
+RedirectMatch permanent "^/team/itzel\-martinez\-hernandez(/?)$" "/team/itzel-ivon-martinez-hernandez/"
 RedirectMatch permanent "^/en/privacy\-policy(/?)$" "/privacy-policy/"
 RedirectMatch permanent "^/en/diplomas(/?)$" "/diplomas/"
 RedirectMatch permanent "^/team/categories/faculty(/?)$" "/team/categories/role/faculty/"
