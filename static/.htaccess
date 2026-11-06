@@ -87,6 +87,7 @@ RedirectMatch permanent "^/en/team/prof\-zachary\-douglas\-kc(/?)$" "/team/prof-
 RedirectMatch permanent "^/team/categories/staff(/?)$" "/team/categories/role/staff/"
 RedirectMatch permanent "^/agenda/2025/sanctions\-and\-the\-new\-world\-order(/?)$" "/agenda/2025/dasser-lecture-spring-2025/"
 RedirectMatch permanent "^/about/our\-values(/?)$" "/en/about/our-values/"
+RedirectMatch permanent "^/team/mohammed\-elsherif(/?)$" "/team/mohammed-abdelrahman/"
 RedirectMatch permanent "^/en/team/michael\-scholl(/?)$" "/team/michael-scholl/"
 RedirectMatch permanent "^/en/posts/2024\-09\-25\-mids\-alumni\-scholarship\-fund(/?)$" "/posts/2024-09-25-mids-alumni-scholarship-fund/"
 RedirectMatch permanent "^/en/community(/?)$" "/community/"
