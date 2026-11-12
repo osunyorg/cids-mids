@@ -169,6 +169,7 @@ RedirectMatch permanent "^/team/categories/governance(/?)$" "/team/categories/ro
 RedirectMatch permanent "^/en/organizations/university\-of\-geneva(/?)$" "/organizations/university-of-geneva/"
 RedirectMatch permanent "^/student\-experience/moving\-to\-geneva(/?)$" "/en/student-experience/moving-to-switzerland/"
 RedirectMatch permanent "^/en/admissions/requirements(/?)$" "/admissions/requirements/"
+RedirectMatch permanent "^/posts/2026\-11\-12\-paris\-study\-trip\-2026(/?)$" "/posts/2026-11-06-paris-study-trip-2026/"
 RedirectMatch permanent "^/en/admissions/financial\-aid(/?)$" "/admissions/scholarships/"
 RedirectMatch permanent "^/en/campus(/?)$" "/campus/"
 RedirectMatch permanent "^/en/admissions/admitted\-students(/?)$" "/admissions/admitted-students/"
