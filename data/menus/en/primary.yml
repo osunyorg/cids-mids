@@ -287,11 +287,21 @@ items:
     descendants_targets: []
     path: "/pages/about/contact-us"
     file: content/en/pages/about/contact-us/_index.html
+  - title: Support the MIDS
+    slug: support-the-mids
+    target: https://mids.ch/about/support-the-mids/
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/about"
+    file: content/en/pages/about/_index.html
   descendants_targets:
   - "/about/about-the-mids/"
   - "/about/contact-us/"
   - "/agenda/"
   - "/posts/"
+  - https://mids.ch/about/support-the-mids/
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 
