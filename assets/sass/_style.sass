@@ -49,6 +49,13 @@ body.page-dark_blue_background
     .toc-cta
         @extend .sr-only
 
+.toc-cta 
+    button
+        &::after,
+        span
+            @include media-breakpoint-down(desktop)
+                color: var(--color-background)
+
 .toc-container
     .toc-content
         .toc-title,
